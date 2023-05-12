@@ -47,8 +47,6 @@ I'm an aspiring **ML Engineer** based in Islamabad, Pakistan 🇵🇰. I have a 
 
 
 
-
-
 🔗 **Connect with Me:**
 
 - 📚 For my latest data science projects and competitions, visit my [Kaggle](https://www.kaggle.com/kane6543) profile.
