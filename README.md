@@ -2,6 +2,23 @@
 
 I'm an aspiring **ML Engineer** based in Islamabad, Pakistan 🇵🇰. I have a knack for problem-solving and adaptability, and I'm passionate about Machine Learning, Deep Learning, and Computer Vision.
 
+## 🛠️ Languages and Tools: 
+
+#### Languages:
+`Python` `C++` `C` `Assembly`
+
+#### Web Development:
+`Django` `HTML` `CSS` `Bootstrap`
+
+#### Machine Learning / Deep Learning:
+`PyTorch` `Tensorflow` `Scikit-learn` `Streamlit` `NLP` `Computer Vision` `CNN` `LSTM` `Transformers` `OCR`
+
+#### Tools:
+`AWS` `GitHub` `Google Colab` `Kaggle` `Jupyter Notebook` `Hugging face` `Weights and Biases` `Mlflow` `DVC` `Airflow`
+
+
+
+
 
 🔗 **Connect with Me:**
 
