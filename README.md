@@ -1,14 +1,11 @@
 # Hello there , I'm Abdullah 👋 an AI enthusiast turning ideas into reality with code! 🚀
 
 
+🔭 As an AI graduate based in Islamabad, Pakistan 🇵🇰, I'm an aspiring ML Engineer with a passion for Machine Learning, Deep Learning, and Computer Vision. 
 
-I'm an aspiring **ML Engineer** based in Islamabad, Pakistan 🇵🇰. I have a knack for problem-solving and adaptability, and I'm passionate about Machine Learning, Deep Learning, and Computer Vision.
+🌱 I'm particularly captivated by the transformative potential of Deep Learning. From CNNs and LSTMs to Transformers, I've immersed myself in understanding these models and applying them to real-world challenges. 
 
-🔭 As a recent Artificial Intelligence graduate, I've delved deep into the fascinating world of Machine Learning, Neural Networks, and Computer Vision. Python and C++ are my tools of choice, and I've got a solid foundation in data structures that lets me build efficient and scalable solutions.
-
-🌱 I'm particularly captivated by the transformative potential of Deep Learning. From CNNs and LSTMs to Transformers, I've immersed myself in understanding these models and applying them to real-world challenges. I believe that the fusion of AI and Computer Vision can redefine our future, and I'm excited to be part of this journey.
-
-🔍 Currently, I'm exploring the intricacies of Natural Language Processing (NLP) and how it can revolutionize our interaction with technology. It's not just about understanding languages but about understanding context, emotion, and intent. 
+🔍 At present, my focus is on delving deep into the world of Machine Learning Operations (MLOps) with the help of tools like Airflow, MLflow, DVC, Jenkins, and others. It's about more than just deploying machine learning models; it's about streamlining the process, improving efficiency, and fostering collaboration to revolutionize how we interact with technology.
 
 💡 My interest isn't confined to just learning. I enjoy sharing my knowledge and insights too. That's why I regularly write about various Machine Learning topics on Medium.
 
