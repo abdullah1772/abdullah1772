@@ -43,14 +43,32 @@ I'm an aspiring **ML Engineer** based in Islamabad, Pakistan 🇵🇰. I have a 
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 
 
-![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=abdullah1772&show_icons=true&theme=radical&include_all_commits=true)
+## 📊 My GitHub Statistics
+
+<p align="center">
+    <a href="https://github.com/abdullah1772">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah1772&show_icons=true&theme=radical&include_all_commits=true"/>
+    </a>
+</p>
 
 
+<p align="center">
+    <a href="https://github.com/abdullah1772">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah1772&layout=compact&theme=radical"/>
+    </a>
+</p>
 
+## 🔥 Streak Stats
 
-🔗 **Connect with Me:**
+<p align="center">
+    <a href="https://github.com/abdullah1772">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah1772&theme=radical" alt="abdullah1772" />
+    </a>
+</p>
 
-- 📚 For my latest data science projects and competitions, visit my [Kaggle](https://www.kaggle.com/kane6543) profile.
+## 🔗 **Connect with Me:**
+
+- 📚 For my latest data science projects, new datasets and competitions, visit my [Kaggle](https://www.kaggle.com/kane6543) profile.
 - ✍️ I share my thoughts and write about various topics on [Medium](https://medium.com/@abdullah.siddique.010).
 - 🐦 Follow me on [Twitter](https://twitter.com/010_abdullah_) for updates and interesting shares.
 - 👔 Let's connect professionally on [LinkedIn](https://www.linkedin.com/in/abdullah-siddique-541195242/).
