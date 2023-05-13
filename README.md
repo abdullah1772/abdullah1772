@@ -43,7 +43,7 @@ I'm an aspiring **ML Engineer** based in Islamabad, Pakistan 🇵🇰. I have a 
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 
 
-![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=abdullah1772&show_icons=true)
+![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=abdullah1772&show_icons=true&theme=radical&include_all_commits=true)
 
 
 
