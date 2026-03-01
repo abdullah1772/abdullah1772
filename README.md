@@ -12,20 +12,7 @@ AI Engineer | Founder at Galvan AI | Building Production-Ready AI Systems 🚀
 I build AI systems that are not just intelligent, but secure, scalable, and production-ready.
 
 
-## 📊 My GitHub Statistics
-
-<p align="center">
-    <a href="https://github.com/abdullah1772">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah1772&show_icons=true&theme=radical&include_all_commits=true"/>
-    </a>
-</p>
-
-
-<p align="center">
-    <a href="https://github.com/abdullah1772">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah1772&layout=compact&theme=radical"/>
-    </a>
-</p>
+## 📊 My GitHub Statistics <p align="center"> <a href="https://github.com/abdullah1772"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah1772&show_icons=true&theme=radical&include_all_commits=true"/> </a> </p> <p align="center"> <a href="https://github.com/abdullah1772"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah1772&layout=compact&theme=radical"/> </a> </p>
 
 ## 🔥 Streak Stats
 
