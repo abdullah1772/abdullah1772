@@ -1,52 +1,15 @@
-# Hello there , I'm Abdullah 👋 an AI enthusiast turning ideas into reality with code! 🚀
+# Hello there, I'm Abdullah 👋  
+AI Engineer | Founder at Galvan AI | Building Production-Ready AI Systems 🚀  
 
+🔭 I’m an AI Engineer based in Islamabad, Pakistan 🇵🇰, focused on designing and deploying real-world AI SaaS platforms. My work spans Machine Learning, Deep Learning, Large Language Models, Computer Vision, and AI automation systems that operate at scale.
 
-🔭 As an AI graduate based in Islamabad, Pakistan 🇵🇰, I'm an aspiring ML Engineer with a passion for Machine Learning, Deep Learning, and Computer Vision. 
+🌱 I’m deeply driven by the practical power of AI. From CNNs and LSTMs to Transformers and modern LLM architectures, I’ve moved beyond theory into building secure, multi-tenant, production-grade systems used across healthcare, education, sales automation, analytics, and security.
 
-🌱 I'm particularly captivated by the transformative potential of Deep Learning. From CNNs and LSTMs to Transformers, I've immersed myself in understanding these models and applying them to real-world challenges. 
+🔍 My current focus is on AI system architecture and MLOps — ensuring models don’t just work in notebooks but perform reliably in production. I work with tools like Airflow, MLflow, DVC, AWS, CI/CD pipelines, and automation frameworks to create scalable, maintainable AI infrastructures.
 
-🔍 At present, my focus is on delving deep into the world of Machine Learning Operations (MLOps) with the help of tools like Airflow, MLflow, DVC, Jenkins, and others. It's about more than just deploying machine learning models; it's about streamlining the process, improving efficiency, and fostering collaboration to revolutionize how we interact with technology.
+💡 Beyond building, I enjoy sharing insights from real deployments. I regularly write about AI SaaS development, RAG systems, LLM applications, backend architecture, and automation workflows on Medium — translating complex AI concepts into practical, usable knowledge.
 
-💡 My interest isn't confined to just learning. I enjoy sharing my knowledge and insights too. That's why I regularly write about various Machine Learning topics on Medium.
-
-
-## 🛠️ Languages and Tools:
-
-#### Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat-square)
-
-#### Web Development:
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-#### Machine Learning / Deep Learning:
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B0082?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-006400?style=flat-square)
-![CNN](https://img.shields.io/badge/CNN-FF00FF?style=flat-square)
-![LSTM](https://img.shields.io/badge/LSTM-FF00FF?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-FF00FF?style=flat-square)
-![OCR](https://img.shields.io/badge/OCR-FF00FF?style=flat-square)
-
-#### Tools:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD000?style=flat-square&logo=huggingface&logoColor=black)
-![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-FF4A4A?style=flat-square&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=data-version-control&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+I build AI systems that are not just intelligent, but secure, scalable, and production-ready.
 
 
 ## 📊 My GitHub Statistics
