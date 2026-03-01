@@ -3,16 +3,8 @@ AI Engineer | Founder at Galvan AI | Building Production-Ready AI Systems 🚀
 
 🔭 I’m an AI Engineer based in Islamabad, Pakistan 🇵🇰, focused on designing and deploying real-world AI SaaS platforms. My work spans Machine Learning, Deep Learning, Large Language Models, Computer Vision, and AI automation systems that operate at scale.
 
-🌱 I’m deeply driven by the practical power of AI. From CNNs and LSTMs to Transformers and modern LLM architectures, I’ve moved beyond theory into building secure, multi-tenant, production-grade systems used across healthcare, education, sales automation, analytics, and security.
-
-🔍 My current focus is on AI system architecture and MLOps — ensuring models don’t just work in notebooks but perform reliably in production. I work with tools like Airflow, MLflow, DVC, AWS, CI/CD pipelines, and automation frameworks to create scalable, maintainable AI infrastructures.
-
-💡 Beyond building, I enjoy sharing insights from real deployments. I regularly write about AI SaaS development, RAG systems, LLM applications, backend architecture, and automation workflows on Medium — translating complex AI concepts into practical, usable knowledge.
-
 I build AI systems that are not just intelligent, but secure, scalable, and production-ready.
 
-
-## 📊 My GitHub Statistics <p align="center"> <a href="https://github.com/abdullah1772"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah1772&show_icons=true&theme=radical&include_all_commits=true"/> </a> </p> <p align="center"> <a href="https://github.com/abdullah1772"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah1772&layout=compact&theme=radical"/> </a> </p>
 
 ## 🔥 Streak Stats
 
